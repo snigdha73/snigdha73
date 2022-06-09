@@ -1,5 +1,5 @@
 <div align="center">
-   <h1> Hey, I'm Snigdha Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></h1>
+   <h1> Hey, I'm Snigdha Singh </h1>
 </div>
 <img src="https://media2.giphy.com/media/hTUDzx90zCDBIFBYyW/200w.gif?cid=82a1493b4n0e7rjj62kk1ktjrhvwcqjswxpc084rp3kgukeo&rid=200w.gif&ct=g" align="right" width="230"/>
 
